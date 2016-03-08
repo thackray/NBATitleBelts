@@ -51,7 +51,7 @@ def do_history(start_year, belt_type='loser', beltholder='New York Knicks',
                                belt_type=belt_type,beltholder=beltholder)
 
 if __name__=="__main__":
-    loser=0
+    loser=1
     if loser:
         do_history(1947, end=1948, beltholder='New York Knicks')
         do_history(1948, end=1950, beltholder='Providence Steam Rollers')
@@ -60,7 +60,7 @@ if __name__=="__main__":
         do_history(1952, end=1955, beltholder='Fort Wayne Pistons')
         do_history(1955, end=1958, beltholder='Milwaukee Hawks')
         do_history(1958, end=1964, beltholder='St. Louis Hawks')
-        do_history(1964, beltholder='New York Knicks')
+        do_history(1964, end=1979, beltholder='New York Knicks')
         do_history(1979, end=1980, beltholder='Boston Celtics')
         do_history(1980, end=2013, beltholder='Utah Jazz')
         do_history(2013, beltholder='Brooklyn Nets')
