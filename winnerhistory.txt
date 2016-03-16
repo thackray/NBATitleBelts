@@ -2925,5 +2925,6 @@ Golden State Warriors lost to Portland Trail Blazers on Fri Feb 19 2016
 Portland Trail Blazers lost to Houston Rockets on Thu Feb 25 2016
 Houston Rockets lost to San Antonio Spurs on Sat Feb 27 2016
 San Antonio Spurs lost to Indiana Pacers on Mon Mar 7 2016
+Indiana Pacers lost to Atlanta Hawks on Sun Mar 13 2016
 ################
-END OF 2016 SEASON WINNER TITLE BELT HOLDER: Indiana Pacers
+END OF 2016 SEASON WINNER TITLE BELT HOLDER: Atlanta Hawks
