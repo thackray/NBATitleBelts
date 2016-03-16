@@ -2447,5 +2447,7 @@ Denver Nuggets lost to Memphis Grizzlies on Mon Feb 29 2016
 Los Angeles Lakers lost to Denver Nuggets on Wed Mar 2 2016
 Golden State Warriors lost to Los Angeles Lakers on Sun Mar 6 2016
 Orlando Magic lost to Golden State Warriors on Mon Mar 7 2016
+Sacramento Kings lost to Orlando Magic on Fri Mar 11 2016
+Los Angeles Lakers lost to Sacramento Kings on Tue Mar 15 2016
 ################
-END OF 2016 SEASON LOSER TITLE BELT HOLDER: Orlando Magic
+END OF 2016 SEASON LOSER TITLE BELT HOLDER: Los Angeles Lakers
